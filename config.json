@@ -1,0 +1,46 @@
+{
+  "api_endpoint": "https://www.alphavantage.co/query",
+  "api_key": "6T3A2T5HPWUMBKD4",
+  "stock_list": [
+    {
+      "label": "Dow Jones Index",
+      "symbol": "DIA"
+    },
+    {
+      "label": "NASDAQ 100 Index",
+      "symbol": "ANX.PA"
+    },
+    {
+      "label": "Amazon",
+      "symbol": "AMZN"
+    },
+    {
+      "label": "Apple Inc",
+      "symbol": "AAPL"
+    }
+  ],
+  "crypto_list": [
+    {
+      "label": "Bitcoin",
+      "symbol": "BTC"
+    },
+    {
+      "label": "Ethereum",
+      "symbol": "ETH"
+    },
+    {
+      "label": "SHIBA-INU",
+      "symbol": "SHIB"
+    }
+  ],
+  "currency_list": [
+    {
+      "label": "EURO-DOLLAR",
+      "symbol": "EUR"
+    },
+    {
+      "label": "YUAN-DOLLAR",
+      "symbol": "CNY"
+    }
+  ]
+}
